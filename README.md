@@ -6,6 +6,9 @@ Learn more about Confluence Server: <https://www.atlassian.com/software/confluen
 
 You can find the repository for this Dockerfile at <https://hub.docker.com/r/atlassian/confluence-server>
  
+# Updates:
+it is based on default repo. This repo is to use Oracle JDK instead of OpenJDK
+
 # Overview
  
 This Docker container makes it easy to get an instance of Confluence up and running.
